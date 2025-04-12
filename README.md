@@ -1,16 +1,17 @@
-This is a project to showcase different technical code components used in the game Hellmaster.
+<b><H3>DESCRIPTION</H3></b>
 
-The project has been reduced to a minimum in order to schematically display some of the structures
+This project showcases various technical code components used in the game Hellmaster.<br>
+It has been streamlined to its essentials to clearly illustrate some of the underlying structures
 
-<b>THIS DEMO INCLUDES</b>
+<b><H3>THIS DEMO INCLUDES</H3></b>
 - FSM
 - Gameplay scalable abilities system
 - Coroutines system to FIFO execution
 - Localization and simple settings system
 - Game events system
 - Generic popup system
-
-<b>SHOW LIVE IF REQUIRED</b>
+  
+<b><H3>SHOW LIVE IF REQUIRED</H3></b>
 
 <b>Game</b>
 - Full implementation
@@ -18,6 +19,8 @@ The project has been reduced to a minimum in order to schematically display some
 
 <b>Backend</b>
 - AWS used features (Elastic beanstalk, EC2, Redis, RDS, Lambdas)
+
+<br>
 
 Hellmaster trailer here: https://www.youtube.com/watch?v=YJ85K-zxAcE
 
