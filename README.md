@@ -1,7 +1,7 @@
 <b><H3>DESCRIPTION</H3></b>
 
 This project showcases various technical code components used in the game Hellmaster.<br>
-It has been streamlined to its essentials to clearly illustrate some of the underlying structures
+The project has been reduced to a minimum in order to schematically display some of the structures
 
 <b><H3>THIS DEMO INCLUDES</H3></b>
 - FSM
