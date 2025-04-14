@@ -18,7 +18,17 @@ The project has been reduced to a minimum in order to schematically display some
 - Multiplayer online architecture
 
 <b>Backend</b>
-- AWS used features (Elastic beanstalk, EC2, Redis, RDS, Lambdas)
+- Elastic Beanstalk C# project
+- Dependency injections
+- Websocket architecture
+- Loadbalancer for EC2 scalability
+- C# Lambdas
+- Google OAuth integration
+- MemoryCache (Redis)
+- RDS (MySql)
+- AI Behaviour trees
+- Command patterns
+- Factory patterns
 
 <br>
 
