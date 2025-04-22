@@ -6,7 +6,7 @@ The project has been reduced to a minimum in order to schematically display some
 <b><H3>THIS DEMO INCLUDES</H3></b>
 - FSM
 - Gameplay scalable abilities system
-- Coroutines system to FIFO execution
+- Coroutines system
 - Localization and simple settings system
 - Game events system
 - Generic popup system
