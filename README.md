@@ -8,7 +8,7 @@ The project has been reduced to a minimum in order to schematically display some
 - Gameplay scalable abilities system
 - Coroutines system
 - Localization and simple settings system
-- Game events system
+- Game events system with FIFO execution methods
 - Generic popup system
   
 <b><H3>SHOW LIVE IF REQUIRED</H3></b>
